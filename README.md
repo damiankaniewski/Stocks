@@ -14,9 +14,9 @@ The objective of the game is to buy and sell stocks of different companies to ea
 To play Stocks, you must have Unity installed on your computer. After downloading the project from Github, open it in Unity and run the game.
 
 ## Screenshots
-![ScreenShot](https://github.com/damiankaniewski/HelloWorldGame/blob/main/Stocks1.png)
-![ScreenShot](https://github.com/damiankaniewski/HelloWorldGame/blob/main/Stocks2.png)
-![ScreenShot](https://github.com/damiankaniewski/HelloWorldGame/blob/main/Stocks3.png)
+![ScreenShot](https://github.com/damiankaniewski/Stocks/blob/main/Stocks1.png)
+![ScreenShot](https://github.com/damiankaniewski/Stocks/blob/main/Stocks2.png)
+![ScreenShot](https://github.com/damiankaniewski/Stocks/blob/main/Stocks3.png)
 
 ## Credits
 Stocks was created by Damian Kaniewski.
