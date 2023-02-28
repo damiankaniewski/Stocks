@@ -1,4 +1,4 @@
-# Hello World
+# Stocks
 Stocks is a game developed in Unity using C# scripting language. In the game, players can trade stocks of various companies. The game is currently a **work in progress**.
 
 ## Gameplay
