@@ -5,7 +5,7 @@ Stocks is a game developed in Unity using C# scripting language. In the game, pl
 The objective of the game is to buy and sell stocks of different companies to earn money. The player can view stock prices, news, and company information to make informed decisions about which stocks to buy and sell. The game features a stock market simulation with realistic market fluctuations and price changes.
 
 ## Development Tools
-- Unity 2D
+- Unity
 - Rider IDE for coding and scripting
 - C# programming language for scripting
 - GIMP for image editing
